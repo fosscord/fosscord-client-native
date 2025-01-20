@@ -24,7 +24,7 @@ tauri-plugin-log = "2.2.0"
 tauri-plugin-os = "2.0.1"
 tauri-plugin-notification = "2.0.1"
 tauri-plugin-single-instance = "2.0.1"
-tauri-plugin-autostart = "2.0.1"
+tauri-plugin-autostart = "2.2.0"
 reqwest = { version = "0.12.9", default-features = false, features = [
 	"json",
 	"rustls-tls",
