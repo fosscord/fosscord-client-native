@@ -6,7 +6,7 @@
 	"dependencies": {
 		"@emotion/react": "^11.13.3",
 		"@emotion/styled": "^11.13.0",
-		"@floating-ui/react": "^0.26.24",
+		"@floating-ui/react": "^0.27.4",
 		"@fontsource/roboto": "^5.1.0",
 		"@fontsource/roboto-mono": "^5.1.0",
 		"@hcaptcha/react-hcaptcha": "^1.11.0",
